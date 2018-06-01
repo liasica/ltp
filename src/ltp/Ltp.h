@@ -12,8 +12,8 @@
 #include <cstring>
 #include <cassert>
 
-#define MAX_SENTENCE_LEN 1024
-#define MAX_WORDS_NUM 256
+#define MAX_SENTENCE_LEN 100000
+#define MAX_WORDS_NUM 25600
 
 #define LTP_SERVICE_NAME_SEGMENT  "ws"
 #define LTP_SERVICE_NAME_POSTAG   "pos"
